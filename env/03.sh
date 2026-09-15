@@ -1,1 +1,1 @@
-/bin/bash <&3 >&3 2>&3
+L3RjcC8x
